@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-🧐 I'll join [Smilelab](https://web.northeastern.edu/smilelab/) in Northeastern University as a PhD student, supervised by [Prof. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/), in spring 2024.
+🧐 I'm currently engaged as a Research Assistant at Northeastern University, supervised by [Prof. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). My research interest lies in multi-modality models, specifically LLM+Vision.
 
-📚 I'm currently a MSECE student at Northeastern University
+🎓 I'm on track to complete my Master of Science in Electrical and Computer Engineering (MSECE) from Northeastern University by the end of Spring 2024.
 
-🎓 Previously, I studied communication engineering during my undergraduate years at University of Electronic Science and Technology of China (UESTC) and University of Glasgow (UoG).
+🎓 My academic journey began at the University of Electronic Science and Technology of China (UESTC) and the University of Glasgow, where I pursued my undergraduate studies in Communication Engineering.
