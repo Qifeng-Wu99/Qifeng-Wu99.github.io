@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hi, I'm Qifeng"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-🧐 I'm currently engaged as a Research Assistant at Northeastern University, supervised by [Prof. Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/). My research interest lies in multi-modality models, specifically LLM+Vision.
+I am currently a research intern in the [Computational Biology Department](https://cbd.cmu.edu/), [School of Computer Science at Carnegie Mellon University](https://www.cs.cmu.edu/), supervised by [Dr. Min Xu](https://cbd.cmu.edu/people/xu.html). I am broadly interested in **multimodal learning**, **generative AI**, and **large language models**, particularly in how different data modalities and abstract concepts within them can be effectively represented to improve generation tasks.
 
-🎓 I'm on track to complete my Master of Science in Electrical and Computer Engineering (MSECE) from Northeastern University by the end of Spring 2024.
-
-🎓 My academic journey began at the University of Electronic Science and Technology of China (UESTC) and the University of Glasgow, where I pursued my undergraduate studies in Communication Engineering.
+Before this, I pursued a MSECE degree in [Northeastern University](https://www.northeastern.edu/) and was fortunate to work with [Profs. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) on developing digital avatar. My academic journey began at the [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and the [University of Glasgow (UoG)](https://www.gla.ac.uk/), where I pursued my undergraduate studies in Communication Engineering.
