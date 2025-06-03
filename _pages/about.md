@@ -15,15 +15,17 @@ Before this, I pursued a MSECE degree in [Northeastern University](https://www.n
 
 ## Publications
 
-###Preprints
+### Preprints
 
 * **AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**
+
 **Xingjian Li***, **Qifeng Wu***, Colleen Que, Yiran Ding, Adithya S. Ubaradka, Jianhua Xing, Tianyang Wang, Min Xu
 
 
 
-###Conference Papers
+### Conference Papers
 * **BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment**
+
 Runmin Jiang, Jackson Daggett, Shriya Pingulkar, Yizhou Zhao, Priyanshu Dhingra, Daniel Brown, **Qifeng Wu**, Xiangrui Zeng, Xingjian Li, Min Xu
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
 
