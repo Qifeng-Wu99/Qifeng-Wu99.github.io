@@ -23,8 +23,8 @@ Before this, I pursued a MSECE degree in [Northeastern University](https://www.n
 
 ### Workshop
 * **Aligning Proteins and Language: A Foundation Model for Protein Retrieval**  
-**Qifeng Wu***, Zhengzhe Liu, Han Zhu, Yizhou Zhao, Daisuke Kihara, Min Xu
-CVPR 2025 Workshop on Multimodal Foundation Models in Biomedicine (MMFM-BIOMED) 
+**Qifeng Wu***, Zhengzhe Liu, Han Zhu, Yizhou Zhao, Daisuke Kihara, Min Xu  
+CVPR 2025 Workshop on Multimodal Foundation Models in Biomedicine (MMFM-BIOMED)  
 [arxiv](https://arxiv.org/pdf/2506.08023)
 
 
