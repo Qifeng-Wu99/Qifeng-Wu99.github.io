@@ -31,7 +31,7 @@ CVPR 2025 Workshop on Multimodal Foundation Models in Biomedicine (MMFM-BIOMED)
 ### Conference Papers
 * **BOE-ViT: Boosting Orientation Estimation with Equivariance in Self-Supervised 3D Subtomogram Alignment**  
 Runmin Jiang, Jackson Daggett, Shriya Pingulkar, Yizhou Zhao, Priyanshu Dhingra, Daniel Brown, **Qifeng Wu**, Xiangrui Zeng, Xingjian Li, Min Xu  
-_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025_
+_IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025_  
 [[PDF](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_BOE-ViT_Boosting_Orientation_Estimation_with_Equivariance_in_Self-Supervised_3D_Subtomogram_CVPR_2025_paper.pdf)]
 
 
@@ -40,6 +40,6 @@ _IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025_
 * **bitHuman Inc., Boston, U.S.** Jun 2023 - Aug 2024   
 Worked on developing AI-powered interactive digital avatar.
 
-* **Liberty Mutual Insurance, Boston, U.S.** Jan-Jun 2023
+* **Liberty Mutual Insurance, Boston, U.S.** Jan-Jun 2023  
 Worked on Multi-modal retrieval and automatic report completion.
 
